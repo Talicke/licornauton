@@ -1,0 +1,20 @@
+body{
+    background-color: rgba(214, 214, 214, 0.9);
+}
+h1{
+    text-align: center;
+    color: #19204E;
+    text-decoration: underline;
+    font-weight: bold;
+    font-size: 55px;
+}
+img{
+    height: 70px;
+    width: 70px;
+}
+
+
+label{
+    color: #DF1B3F;
+    margin-top: 20px;
+}
