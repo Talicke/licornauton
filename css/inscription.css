@@ -1,0 +1,54 @@
+body{
+    background-color: rgba(214, 214, 214, 0.9);
+}
+h1{
+    text-align: center;
+    color: #19204E;
+    text-decoration: underline;
+    font-weight: bold;
+    font-size: 55px;
+}
+form{
+    margin-top: 100px;
+}
+fieldset{
+    background-color: rgb(246, 246, 246, 0.5);
+    border: 2px solid #19204E;
+    border-radius: 30px;
+    box-shadow: 5px 5px 5px #19204E;
+    width: 70%;
+    margin: auto;
+    padding-top: 5px;
+    padding-left: 15px;
+    padding-bottom: 15px;
+    padding-right: 15px;
+    height: 425px;
+}
+label{
+    color: #DF1B3F;
+    margin-top: 20px;
+}
+input{
+    border-radius: 6px;
+    border: 1px solid #19204E;
+    width: 100%;
+}
+#age{
+    margin-right: 10%;
+}
+#valider{
+    margin-top: 60px;
+    margin-left: 555px;
+    background-color:rgba(25, 32, 78, 0.7);
+    border: 1px solid black;
+    border-radius: 6px;
+    color: #FBC300;
+    width: 200px;
+}
+div{
+    display: flex;
+    justify-content: space-between;
+}
+#dossard{
+    margin-left: 19%;
+}
