@@ -11,6 +11,12 @@ body{
     font-family: 'roboto';
 }
 
+#index{
+    background-image: url(../img/istockphoto-612398606-612x612.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
 h1{
     font-family: 'Orbitron';
 }
@@ -20,7 +26,7 @@ h1{
 }
 
 .bg-secondary{
-    background-color: lightblue !important;
+    background-color: #df1b3faf !important;
 }
 
 .nav-item{
