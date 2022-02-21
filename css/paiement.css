@@ -2,6 +2,7 @@ body{
     background-color: rgba(214, 214, 214, 0.9);
 }
 h1{
+    font-family: Orbitron, Arial, Helvetica, sans-serif;
     text-align: center;
     color: #19204E;
     text-decoration: underline;
